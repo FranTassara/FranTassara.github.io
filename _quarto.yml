@@ -5,7 +5,6 @@ website:
   title: "Fran Tassara"
   site-url: "https://FranTassara.github.io"
   description: "Biomedical Engineer"
-
   navbar:
     background: primary  # Usa el color principal del tema
     left:
