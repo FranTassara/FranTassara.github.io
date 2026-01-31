@@ -10,7 +10,7 @@ website:
     left:
       - text: "Blog"
         href: index.qmd
-      - text: "Proyectos" # Acá podrías linkear a una página de proyectos después
+      - text: "About Me"
         href: about.qmd
     right:
       - icon: github
