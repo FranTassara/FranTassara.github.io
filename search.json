@@ -1,30 +1,37 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/2026-01-31-el-puente-biomedicina-ia/index.html",
+    "href": "posts/2026-01-31-el-puente-biomedicina-ia/index.html",
+    "title": "El Puente: De la Ingeniería Biomédica a la IA",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Como ingeniero biomédico, mi día a día suele estar rodeado de señales complejas: desde ritmos circadianos hasta imágenes de microscopía de fluorescencia. Entendí que la mejor forma de escalar el impacto de estas investigaciones es a través de la Inteligencia Artificial."
+  },
+  {
+    "objectID": "posts/2026-01-31-el-puente-biomedicina-ia/index.html#por-qué-ia",
+    "href": "posts/2026-01-31-el-puente-biomedicina-ia/index.html#por-qué-ia",
+    "title": "El Puente: De la Ingeniería Biomédica a la IA",
+    "section": "",
+    "text": "Como ingeniero biomédico, mi día a día suele estar rodeado de señales complejas: desde ritmos circadianos hasta imágenes de microscopía de fluorescencia. Entendí que la mejor forma de escalar el impacto de estas investigaciones es a través de la Inteligencia Artificial."
+  },
+  {
+    "objectID": "posts/2026-01-31-el-puente-biomedicina-ia/index.html#mis-proyectos-actuales",
+    "href": "posts/2026-01-31-el-puente-biomedicina-ia/index.html#mis-proyectos-actuales",
+    "title": "El Puente: De la Ingeniería Biomédica a la IA",
+    "section": "Mis Proyectos Actuales",
+    "text": "Mis Proyectos Actuales\nEn este blog voy a documentar cómo estoy aplicando modelos de IA y herramientas de Python para: * CircaScope: Análisis automatizado de ritmos biológicos. * Backflip: Procesamiento avanzado de imágenes de microscopía.\nMi objetivo es demostrar que la ingeniería de IA no es solo código, sino entender el dominio de los datos."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Francisco Tassara",
+    "section": "",
+    "text": "Del laboratorio al código\nSoy Ingeniero Biomédico y actualmente estoy terminando mi doctorado. Mi enfoque está en la intersección de la biología y la inteligencia artificial…"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "FJT-blog",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 28, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "text": "El Puente: De la Ingeniería Biomédica a la IA\n\n\n\nPensamiento\n\nIA\n\nBiomedicina\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\nFran Tassara\n\n\n\n\n\nNo matching items"
   }
 ]

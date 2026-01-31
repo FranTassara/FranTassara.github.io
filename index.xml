@@ -12,47 +12,34 @@
 <generator>quarto-1.8.27</generator>
 <lastBuildDate>Sat, 31 Jan 2026 03:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://FranTassara.github.io/posts/post-with-code/</link>
+  <title>El Puente: De la Ingeniería Biomédica a la IA</title>
+  <dc:creator>Fran Tassara</dc:creator>
+  <link>https://FranTassara.github.io/posts/2026-01-31-el-puente-biomedicina-ia/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This is a post with executable code.</p>
+<section id="por-qué-ia" class="level2">
+<h2 class="anchored" data-anchor-id="por-qué-ia">¿Por qué IA?</h2>
+<p>Como ingeniero biomédico, mi día a día suele estar rodeado de señales complejas: desde ritmos circadianos hasta imágenes de microscopía de fluorescencia. Entendí que la mejor forma de escalar el impacto de estas investigaciones es a través de la <strong>Inteligencia Artificial</strong>.</p>
+</section>
+<section id="mis-proyectos-actuales" class="level2">
+<h2 class="anchored" data-anchor-id="mis-proyectos-actuales">Mis Proyectos Actuales</h2>
+<p>En este blog voy a documentar cómo estoy aplicando modelos de IA y herramientas de Python para: * <strong>CircaScope:</strong> Análisis automatizado de ritmos biológicos. * <strong>Backflip:</strong> Procesamiento avanzado de imágenes de microscopía.</p>
+<p>Mi objetivo es demostrar que la ingeniería de IA no es solo código, sino entender el dominio de los datos.</p>
 
 
+</section>
 
  ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://FranTassara.github.io/posts/post-with-code/</guid>
+  <category>Pensamiento</category>
+  <category>IA</category>
+  <category>Biomedicina</category>
+  <guid>https://FranTassara.github.io/posts/2026-01-31-el-puente-biomedicina-ia/</guid>
   <pubDate>Sat, 31 Jan 2026 03:00:00 GMT</pubDate>
-  <media:content url="https://FranTassara.github.io/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://FranTassara.github.io/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://FranTassara.github.io/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://FranTassara.github.io/posts/welcome/</guid>
-  <pubDate>Wed, 28 Jan 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://FranTassara.github.io/posts/2026-01-31-el-puente-biomedicina-ia/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
