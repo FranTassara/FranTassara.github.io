@@ -15,12 +15,12 @@ about:
 
 ## From the Lab to Code: Bridging Bioengineering and AI
 
-[cite_start]I am a Bioengineer and a Ph.C. in Biological Sciences with a solid foundation in mechatronics and computational analysis. My professional journey is driven by a fascination with complex biological data and a commitment to building intelligent tools to extract meaningful insights from it.
+I am a Bioengineer and a Ph.C. in Biological Sciences with a solid foundation in mechatronics and computational analysis. My professional journey is driven by a fascination with complex biological data and a commitment to building intelligent tools to extract meaningful insights from it.
 
-[cite_start]Currently, I am a doctoral researcher at the Behavioral Genetics Laboratory (Fundación Instituto Leloir), where I designed and constructed a single-objective light-sheet microscope for studying neuronal plasticity[cite: 9, 29, 30]. This project represents a convergence of optical engineering, hardware-software integration, and large-scale image processing.
+Currently, I am a doctoral researcher at the Behavioral Genetics Laboratory (Fundación Instituto Leloir), where I designed and constructed a single-objective light-sheet microscope for studying neuronal plasticity. This project represents a convergence of optical engineering, hardware-software integration, and large-scale image processing.
 
 ### Teaching and Mentorship
-[cite_start]As a Senior Teaching Assistant for **Biomedical Signal and Image Processing** at ITBA, I guide students through the complexities of analyzing biological data. [cite_start]I have also supervised undergraduate research projects that utilize AI methods for the segmentation and classification of microscopy images[cite: 53, 56].
+As a Senior Teaching Assistant for **Biomedical Signal and Image Processing** at ITBA, I guide students through the complexities of analyzing biological data. I have also supervised undergraduate research projects that utilize AI methods for the segmentation and classification of microscopy images.
 
 ### Core Projects
 My transition toward AI Engineering is highlighted by several key developments:
@@ -30,9 +30,9 @@ My transition toward AI Engineering is highlighted by several key developments:
 
 ## Technical Skills
 
-* [cite_start]**Programming & Data Science:** Python (scientific stack), Image Processing (OpenCV, napari), and Biomedical Signal Processing[cite: 47, 56].
-* [cite_start]**Engineering & Hardware:** Mechatronics, Control Systems, and Optical System Design[cite: 9, 11, 48].
-* [cite_start]**Research & Analysis:** In-vivo imaging, Behavioral Analysis, and Circadian Biology[cite: 21, 35].
+* **Programming & Data Science:** Python (scientific stack), Image Processing (OpenCV, napari), and Biomedical Signal Processing.
+* **Engineering & Hardware:** Mechatronics, Control Systems, and Optical System Design.
+* **Research & Analysis:** In-vivo imaging, Behavioral Analysis, and Circadian Biology.
 
 ---
 *I am actively seeking opportunities to apply my engineering background and scientific rigor to solve complex problems in the field of Artificial Intelligence.*
