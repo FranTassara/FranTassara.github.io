@@ -1,1 +1,24 @@
 /* css styles */
+/* Cambiar el color de los links a un tono cian tecnológico */
+a {
+  color: #00adb5;
+  text-decoration: none;
+}
+
+/* Darle un estilo más profesional a los bloques de código */
+.cell-output-display {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+/* Personalizar la barra de navegación */
+.navbar {
+  border-bottom: 2px solid #00adb5;
+  padding: 0.8rem;
+}
+
+/* Ajustar el título del blog */
+.navbar-title {
+  font-weight: 800;
+  letter-spacing: -0.5px;
+}

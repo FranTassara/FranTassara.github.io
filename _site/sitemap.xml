@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://FranTassara.github.io/posts/welcome/index.html</loc>
-    <lastmod>2026-01-31T12:53:35.447Z</lastmod>
-  </url>
-  <url>
-    <loc>https://FranTassara.github.io/index.html</loc>
-    <lastmod>2026-01-31T12:53:35.437Z</lastmod>
+    <loc>https://FranTassara.github.io/posts/2026-01-31-el-puente-biomedicina-ia/index.html</loc>
+    <lastmod>2026-01-31T13:11:54.345Z</lastmod>
   </url>
   <url>
     <loc>https://FranTassara.github.io/about.html</loc>
     <lastmod>2026-01-31T13:08:07.499Z</lastmod>
   </url>
   <url>
-    <loc>https://FranTassara.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2026-01-31T12:53:35.447Z</lastmod>
-  </url>
-  <url>
-    <loc>https://FranTassara.github.io/posts/2026-01-31-el-puente-biomedicina-ia/index.html</loc>
-    <lastmod>2026-01-31T13:11:54.345Z</lastmod>
+    <loc>https://FranTassara.github.io/index.html</loc>
+    <lastmod>2026-01-31T12:53:35.437Z</lastmod>
   </url>
 </urlset>

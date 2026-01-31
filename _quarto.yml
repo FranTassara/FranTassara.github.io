@@ -2,22 +2,33 @@ project:
   type: website
 
 website:
-  description: "A blog built with Quarto"
-  site-url: https://FranTassara.github.io
-  title: "FJT-blog"
-  navbar:
+  title: "Fran Tassara"
+  site-url: "https://FranTassara.github.io"
+  description: "Biomedical Engineer"
+
+navbar:
+    background: primary  # Usa el color principal del tema
+    left:
+      - text: "Blog"
+        href: index.qmd
+      - text: "Proyectos" # Acá podrías linkear a una página de proyectos después
+        href: about.qmd
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/FranTassara
+      - icon: linkedin
+        href: https://www.linkedin.com/in/francisco-tassara
+        
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: cosmo
+      dark: slate
     css: styles.css
-
-
-
+    toc: true            # Tabla de contenidos a la derecha
+    toc-title: "En este post"
+    code-copy: true      # Botón para copiar código
+    code-line-numbers: true
+    code-fold: show      # Muestra el código por defecto, pero permite colapsarlo
+    highlight-style: dracula # Estilo de resaltado de sintaxis para IA
+    mainfont: "Inter, sans-serif" # Fuente moderna
