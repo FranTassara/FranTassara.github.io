@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>FJT-blog</title>
+<link>https://FranTassara.github.io/</link>
+<atom:link href="https://FranTassara.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Sat, 31 Jan 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>El Puente: De la Ingeniería Biomédica a la IA</title>
+  <dc:creator>Fran Tassara</dc:creator>
+  <link>https://FranTassara.github.io/posts/2026-01-31-el-puente-biomedicina-ia/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="por-qué-ia" class="level2">
+<h2 class="anchored" data-anchor-id="por-qué-ia">¿Por qué IA?</h2>
+<p>Como ingeniero biomédico, mi día a día suele estar rodeado de señales complejas: desde ritmos circadianos hasta imágenes de microscopía de fluorescencia. Entendí que la mejor forma de escalar el impacto de estas investigaciones es a través de la <strong>Inteligencia Artificial</strong>.</p>
+</section>
+<section id="mis-proyectos-actuales" class="level2">
+<h2 class="anchored" data-anchor-id="mis-proyectos-actuales">Mis Proyectos Actuales</h2>
+<p>En este blog voy a documentar cómo estoy aplicando modelos de IA y herramientas de Python para: * <strong>CircaScope:</strong> Análisis automatizado de ritmos biológicos. * <strong>Backflip:</strong> Procesamiento avanzado de imágenes de microscopía.</p>
+<p>Mi objetivo es demostrar que la ingeniería de IA no es solo código, sino entender el dominio de los datos.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Pensamiento</category>
+  <category>IA</category>
+  <category>Biomedicina</category>
+  <guid>https://FranTassara.github.io/posts/2026-01-31-el-puente-biomedicina-ia/</guid>
+  <pubDate>Sat, 31 Jan 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://FranTassara.github.io/posts/2026-01-31-el-puente-biomedicina-ia/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

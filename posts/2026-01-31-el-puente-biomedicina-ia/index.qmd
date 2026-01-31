@@ -1,0 +1,17 @@
+---
+title: "El Puente: De la Ingeniería Biomédica a la IA"
+author: "Fran Tassara"
+date: "2026-01-31"
+categories: [Pensamiento, IA, Biomedicina]
+image: "image.jpg" # Podés poner una imagen representativa después
+---
+
+## ¿Por qué IA?
+Como ingeniero biomédico, mi día a día suele estar rodeado de señales complejas: desde ritmos circadianos hasta imágenes de microscopía de fluorescencia. Entendí que la mejor forma de escalar el impacto de estas investigaciones es a través de la **Inteligencia Artificial**.
+
+## Mis Proyectos Actuales
+En este blog voy a documentar cómo estoy aplicando modelos de IA y herramientas de Python para:
+* **CircaScope:** Análisis automatizado de ritmos biológicos.
+* **Backflip:** Procesamiento avanzado de imágenes de microscopía.
+
+Mi objetivo es demostrar que la ingeniería de IA no es solo código, sino entender el dominio de los datos.
