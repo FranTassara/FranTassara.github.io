@@ -6,7 +6,7 @@ website:
   site-url: "https://FranTassara.github.io"
   description: "Biomedical Engineer"
 
-navbar:
+  navbar:
     background: primary  # Usa el color principal del tema
     left:
       - text: "Blog"
@@ -18,7 +18,7 @@ navbar:
         href: https://github.com/FranTassara
       - icon: linkedin
         href: https://www.linkedin.com/in/francisco-tassara
-        
+
 format:
   html:
     theme:
